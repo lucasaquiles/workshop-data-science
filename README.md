@@ -1,6 +1,4 @@
-# workshop-data-science
-
-workshop using python for data science with libs:
+workshop at devconf2019 using python for data science with libs:
 
 - pandas
 - matplotlib
