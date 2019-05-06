@@ -10,6 +10,10 @@ install
 
 ```pip install virtualenv```
 
+create a new virtual env
+
+```virtualenv venv```
+
 ```source venv/bin/activate```
 
 run in terminal
